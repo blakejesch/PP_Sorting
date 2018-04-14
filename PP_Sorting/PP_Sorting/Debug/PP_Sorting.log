@@ -1,0 +1,5 @@
+﻿  PP_Sorting.c
+c:\users\owner\source\repos\pp_sorting\pp_sorting\pp_sorting.c(71): warning C4013: 'memcpy' undefined; assuming extern returning int
+c:\users\owner\source\repos\pp_sorting\pp_sorting\pp_sorting.c(58): warning C4101: 'count': unreferenced local variable
+c:\users\owner\source\repos\pp_sorting\pp_sorting\pp_sorting.c(58): warning C4101: 'j': unreferenced local variable
+  PP_Sorting.vcxproj -> C:\Users\Owner\source\repos\PP_Sorting\Debug\PP_Sorting.exe
